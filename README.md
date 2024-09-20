@@ -1,0 +1,2 @@
+# Geracao_tech
+Treinamento
